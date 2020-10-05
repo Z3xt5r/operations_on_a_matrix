@@ -43,7 +43,7 @@ void main(){
 
 
     if(!(n==n3 && n1==n2))
-        printf("\nMultiplication not possible !! \n                                                                                                                                                                                                                                                                                                             ");
+        printf("\nMultiplication not possible !! \n");                                                                                                                                                                                                                                                                                                            ");
     else{
         for (c = 0; c < n; c++) {
             for (d = 0; d < n2; d++) {
